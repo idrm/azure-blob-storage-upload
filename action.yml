@@ -1,6 +1,6 @@
-name: "Azure Blob Storage Upload"
-author: "Matthew Fisher <matt.fisher@fishworks.io>"
-description: "Uploads assets to Azure Blob Storage"
+name: "Azure Blob Storage CLI Upload"
+author: "idrm"
+description: "Uploads to Azure Blob Storage"
 branding:
   icon: "box"
   color: "green"
